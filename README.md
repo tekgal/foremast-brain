@@ -1,5 +1,4 @@
 # Foremast Brain
-[![Build Status](https://img.shields.io/travis/intuit/foremast-brain.svg?branch=master)](https://img.shields.io/travis/intuit/foremast-brain)
 [![Build Status](https://img.shields.io/travis/intuit/foremast-brain.svg?branch=master)](https://travis-ci.org/tekgal/foremast-brain)
 [![Build Status](https://travis-ci.org/tekgal/foremast-brain.svg)](https://travis-ci.org/tekgal/foremast-brain)
 [![Slack Chat](https://img.shields.io/badge/slack-live-orange.svg)](https://foremastio.slack.com/)
