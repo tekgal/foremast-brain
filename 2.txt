@@ -1,0 +1,1 @@
+https://api.travis-ci.org/tekgal/foremast-brain.svg?branch=test-new 
