@@ -31,11 +31,7 @@ BRANCH=subprocess.check_output(["git",
 #  branch=staging)]
 
 # Output String with Variable substitution
-travis="[![Build Status](https://api.travis-ci.org/" \
-       "{GITHUB_USER}/{REPO}.png?" \
-       "branch={BRANCH})]\n".format(BRANCH=BRANCH,
-                                            GITHUB_USER=GITHUB_USER,
-                                            REPO=REPO)
+travis="[![Build Status](https://api.travis-ci.org/{GITHUB_USER}/{REPO}.svg?branch={BRANCH})](https://api.travis-ci.org/{GITHUB_USER}/{REPO})\n".format(BRANCH=BRANCH, GITHUB_USER=GITHUB_USER, REPO=REPO)
 
 sentinel_str="[![Build Status]"
 
